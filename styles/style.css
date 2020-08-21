@@ -74,7 +74,7 @@ a:hover {
     /* align-items: center;
     justify-content: center; */
     height: 100vw;
-    background-image: url('images/house_frame.jpg');
+    background-image: url('../images/house_frame.jpg');
     background-repeat: no-repeat;
     background-position: center 110px;
     background-size: 115vw;
@@ -93,7 +93,7 @@ a:hover {
 }
 
 .cover-services {
-    background-image: url('images/deck_stairs.jpg');
+    background-image: url('../images/deck_stairs.jpg');
 }
 
 .cover2 {
@@ -155,7 +155,7 @@ a:hover {
 }
 
 .cover-contact {
-    background-image: url('images/metal_studs.jpg');
+    background-image: url('../images/metal_studs.jpg');
 }
 
 .cover h1 {
