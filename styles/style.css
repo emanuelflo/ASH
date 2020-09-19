@@ -227,6 +227,15 @@ hr {
     padding: 1.15em 0.1em;
 }
 
+.contact-card a {
+    text-decoration: none;
+    color: black;
+}
+
+.contact-card a:hover {
+    color: gray;
+}
+
 .jumbo-text {
     font-size: 2.25em;
     font-weight: 100;
